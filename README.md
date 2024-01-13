@@ -6,4 +6,6 @@ For this script I have used, requests, signal, sys and colorama
 
 # How to use 
 This scipt use python3 so you need to execute like this:
-```python3 IpLocater.py```
+```python
+python3 IpLocater.py
+```
